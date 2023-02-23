@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charles
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Charles
 ======================================================================================================================================
 
 I'm a Full Stack Developer from Toronto with a business background. I got into coding because I enjoy tinkering with technology and enjoy learning new things. 
